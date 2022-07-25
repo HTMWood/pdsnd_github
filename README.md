@@ -10,7 +10,7 @@ Explore US Bikeshare Data
 This project used Python to explore data related to bike share in three major cities.
 
 ### Files used
-The three files containing the city data are:
+The three files containing the city data are but not included in this repository:
  * chicago.csv
  * new_york_city.csv
  * washington.csv
