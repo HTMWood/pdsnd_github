@@ -190,7 +190,7 @@ def raw_data(df):
         elif option_view_raw_data == "no":
             break
         else:
-            print("Wrong typing. Try again")
+            print("Wrong input. Try again")
 
 def main():
     while True:
