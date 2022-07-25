@@ -17,11 +17,11 @@ def validate_user_input(user_input, input_type):
                 break
             else:
                 if input_type == 'city':
-                    print("Wrong typing. Try again.")
+                    print("Wrong input. Try again.")
                 if input_type == 'month':
-                    print("Wrong typing. Try again.")
+                    print("Wrong input. Try again.")
                 if input_type == 'day':
-                    print("Wrong typing. Try again.")
+                    print("Wrong input. Try again.")
         except ValueError:
             print ("Wrong input")
     return input_entered
