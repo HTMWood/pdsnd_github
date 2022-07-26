@@ -7,7 +7,7 @@ July 25th 2022
 Explore US Bikeshare Data
 
 ### Description
-This project used Python to explore data related to bike share in three major cities.
+This project used Python to explore data related to bike share in three major cities: Chicago, New York City and Washington.
 
 ### Files used
 The three files containing the city data are but not included in this repository:
